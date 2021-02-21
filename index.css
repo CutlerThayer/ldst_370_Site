@@ -1,0 +1,43 @@
+* {
+    background-color: #003366;
+    color: white;
+    font-family: sans-serif;
+}
+
+#site_title {
+    color: white;
+}
+
+#nav_item {
+    float: left;
+}
+
+#nav_link {
+    text-decoration: none;
+    display: block;
+    padding: 12px;
+    background-color: #b3b300;
+    color: #003366;
+    font-weight: 900;
+    font-size: large;
+}
+
+#nav_bar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #b3b300;
+}
+
+#nav_item #nav_text {
+    display: block;
+    color: #003366;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+} 
+
+#nav_item a:hover{
+    background-color: #ffff99;
+}
