@@ -1,0 +1,51 @@
+p{
+    font-size: 20px;
+    text-indent: 50px;
+}
+
+h1{
+    color: #b3b300;
+    text-align: center;
+}
+
+h2{
+    color: #b3b300;
+    text-align: center;
+}
+
+#menu-outer {
+	height: 84px;
+	background-color: none;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+}
+
+ul#horizontal-list li {
+	display: inline;
+    font-weight: 600px;
+}
+
+#list-it{
+    color: #003366;
+    background-color: white;
+    text-decoration: none;
+    margin: 0;
+    padding: 20px;
+}
+
+#list-it:hover{
+    background-color: #ffff99; ;
+}
+
+#section-head{
+    font-size: 30px;
+}

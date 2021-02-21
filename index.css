@@ -50,6 +50,7 @@
 #explanation-p{
     margin-left: 10%;
     margin-right: 10%;
+    font-size: 20px;
 }
 
 #Journal-Head{
@@ -58,4 +59,21 @@
 
 #sections{
     text-align: left;
+}
+
+.email{
+    color: red;
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
+
+#Info{
+    list-style-type: none;
+}
+
+footer .container{
+    background-color: black;
 }
