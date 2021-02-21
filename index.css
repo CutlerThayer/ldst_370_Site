@@ -6,6 +6,7 @@
 
 #site_title {
     color: white;
+    text-align: center;
 }
 
 #nav_item {
@@ -49,4 +50,12 @@
 #explanation-p{
     margin-left: 10%;
     margin-right: 10%;
+}
+
+#Journal-Head{
+    text-align: center;
+}
+
+#sections{
+    text-align: left;
 }
