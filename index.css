@@ -41,3 +41,12 @@
 #nav_item a:hover{
     background-color: #ffff99;
 }
+
+#thanks{
+    text-align: center;
+}
+
+#explanation-p{
+    margin-left: 10%;
+    margin-right: 10%;
+}
