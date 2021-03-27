@@ -3,9 +3,9 @@
 This is a site using github pages, HTML, and CSS to present a site for the class Leadership, Entrepreneurship, and Innovation.
 
 This site will be used to accomplish a few things:
-*Give a short introduction of myself in relation to this class.
-*Present my journal entries for this class in a manner that is not essay based.
-*Potentially use as my final project with more development.
+* Give a short introduction of myself in relation to this class.
+* Present my journal entries for this class in a manner that is not essay based.
+* Potentially use as my final project with more development.
 
 This site is a work in progress and feedback is appreciated. 
 
