@@ -9,4 +9,4 @@ This site will be used to accomplish a few things:
 
 This site is a work in progress and feedback is appreciated. 
 
-Feel free to contact me with feedback and suggestions at [cutlerthayer@gmail.com](cutlerthayer@gmail.com). I am open to using new technologies, and improving this site to the best of my ability.
+Feel free to contact me with feedback and suggestions at cutlerthayer@gmail.com. I am open to using new technologies, and improving this site to the best of my ability.
