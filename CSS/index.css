@@ -77,3 +77,24 @@ footer{
 footer .container{
     background-color: black;
 }
+
+#profilePic{
+    max-width: 18%;
+    max-height: 18%;
+    float: left;
+    padding: 60px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+p{
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#webPic{
+    max-width: 45%;
+    max-height: 45%;
+    float: right;
+    padding-left: 15px;
+}
