@@ -1,15 +1,14 @@
 p{
     font-size: 20px;
-    text-indent: 50px;
 }
 
 h1{
-    color: #b3b300;
+    color: darkblue;
     text-align: center;
 }
 
 h2{
-    color: #b3b300;
+    color: darkblue;
     text-align: center;
 }
 
@@ -35,15 +34,16 @@ ul#horizontal-list li {
 }
 
 #list-it{
-    color: #003366;
-    background-color: white;
+    color: white;
+    background-color: darkblue;
     text-decoration: none;
     margin: 0;
     padding: 20px;
 }
 
 #list-it:hover{
-    background-color: #ffff99; ;
+    background-color: lightblue; 
+    color: black;
 }
 
 #section-head{

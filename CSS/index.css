@@ -1,11 +1,11 @@
 * {
-    background-color: #003366;
-    color: white;
+    background-color: lightgrey;
+    color: black;
     font-family: sans-serif;
 }
 
 #site_title {
-    color: white;
+    color: black;
     text-align: center;
 }
 
@@ -17,8 +17,8 @@
     text-decoration: none;
     display: block;
     padding: 12px;
-    background-color: #b3b300;
-    color: #003366;
+    background-color: lightblue;
+    color: black;
     font-weight: 900;
     font-size: large;
 }
@@ -28,7 +28,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #b3b300;
+    background-color: lightblue;
 }
 
 #nav_item #nav_text {
@@ -40,7 +40,8 @@
 } 
 
 #nav_item a:hover{
-    background-color: #ffff99;
+    background-color: darkblue;
+    color: white;
 }
 
 #thanks{
@@ -87,11 +88,6 @@ footer .container{
     padding-bottom: 0px;
 }
 
-p{
-    margin-left: 25px;
-    margin-right: 25px;
-}
-
 #webPic{
     max-width: 45%;
     max-height: 45%;
@@ -104,4 +100,11 @@ p{
     max-height: 30%;
     float: left;
     padding-right: 30px;
+}
+
+#full_stylizer{
+    max-width: 1080px;
+    align-self: center;
+    margin-left: 25%;
+    margin-right: 25%;
 }
